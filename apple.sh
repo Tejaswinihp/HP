@@ -15,4 +15,4 @@ class Input {
     	System.out.println("Enter your name: ");
     	String inp = input.next();
     	System.out.println("Hello, " + inp);
-    }
+    Hii I Updated }
